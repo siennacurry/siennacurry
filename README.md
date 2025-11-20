@@ -5,7 +5,7 @@
 
 🧃 Majoring in **COMPUTER SCIENCE & LINGUISTICS**
 
-☕ An aspiring software developer with a passion for design.
+☕ An aspiring software developer.
 
 🍵 I work with C++, Python, and React.
 
