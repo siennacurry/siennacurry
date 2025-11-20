@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/siennacurry/siennacurry/blob/847c3fc7147692051897b7439c4675c44d63abc3/green-nokia.gif">
+<img align="left" src="https://github.com/siennacurry/siennacurry/blob/18e13fda32b7ffba71f123da8b230e36eed82441/pixel-earth-transparent.gif">
 
 ### Hey!
 
