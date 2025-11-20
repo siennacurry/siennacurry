@@ -9,7 +9,7 @@
 
 🍵 I work with C++, Python, and React.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://www.linkedin.com/](https://www.linkedin.com/in/siennacurry/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/siennacurry/)
 
 <br>
 <br>
