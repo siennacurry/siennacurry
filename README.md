@@ -1,4 +1,4 @@
-![animation fun GIF by Ryan Seslow](https://github.com/user-attachments/assets/c5d8a6ce-6256-4a8a-8514-24a88d7c9f41)
+<img align="left" src="https://github.com/siennacurry/siennacurry/blob/4f4c77018398f0579b9d6cbc9fc5384dbae3d040/green-nokia.gif#gh-light-mode-only">
 
 # Hi there!
 
