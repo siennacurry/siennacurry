@@ -1,11 +1,11 @@
-<svg fill="none" viewBox="0 0 430 40" width="430" height="40" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 430 40" width="500" height="40" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
           color: skyblue;
-          font-size: 1.5em;
+          font-size: 2em;
         }
 
         .blink {
