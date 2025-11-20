@@ -1,5 +1,5 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
+<img align="left" src="https://github.com/siennacurry/siennacurry/blob/847c3fc7147692051897b7439c4675c44d63abc3/green-nokia.gif#gh-dark-mode-only">
+<img align="left" src="https://github.com/siennacurry/siennacurry/blob/847c3fc7147692051897b7439c4675c44d63abc3/green-nokia.gif#gh-light-mode-only">
 
 ### Hey!
 
