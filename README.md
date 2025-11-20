@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/siennacurry/siennacurry/blob/18e13fda32b7ffba71f123da8b230e36eed82441/pixel-earth-transparent.gif">
 
-  <img height="50" alt="My Name is Livio and I like Node.js" src="personal_note.svg" />
+  <img height="50" alt="My Name is Sienna and I like C++" src="personal_note.svg" />
 </div>
 
 🧃 Majoring in **COMPUTER SCIENCE & LINGUISTICS**
