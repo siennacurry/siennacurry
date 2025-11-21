@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://github.com/siennacurry/siennacurry/blob/215c9a19dfd4ef11cde49ee00af2d2947feddce9/Assets/welcome-github-cupid.png" style="max-width: 100%;" alt="Welcome to my Github" />
   <br />
-  
-<img align="center" src="https://github.com/siennacurry/siennacurry/blob/18e13fda32b7ffba71f123da8b230e36eed82441/pixel-earth-transparent.gif" alt width="35%"/>
+
+
+<img src="https://github.com/siennacurry/siennacurry/blob/7a97619bbfe001fb9fcb3f5705b1d0788ff29727/Assets/floating-stars.gif" width="700">
 
 <div/>
 <div align="left">
@@ -16,4 +17,4 @@
 💻 Hello world!
 
 **CS + Linguistics** at [UCLA](https://github.com/ucla).
-- :hammer_and_pick: C++ & Python
+- :hammer_and_pick: C++ | Python | JavaScript
