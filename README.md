@@ -1,4 +1,9 @@
-<img align="left" src="https://github.com/siennacurry/siennacurry/blob/18e13fda32b7ffba71f123da8b230e36eed82441/pixel-earth-transparent.gif">
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  
+<img align="center" src="https://github.com/siennacurry/siennacurry/blob/18e13fda32b7ffba71f123da8b230e36eed82441/pixel-earth-transparent.gif">
 
 ### Hey!
 
