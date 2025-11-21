@@ -14,6 +14,8 @@
 
 <a href="https://www.linkedin.com/in/siennacurry/"><img align="right" alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 
+<a href="mailto:siennacurry@g.ucla.edu"><img align="right" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
+
 💻 Hello world!
 
 **CS + Linguistics** at [UCLA](https://github.com/ucla).
