@@ -17,4 +17,4 @@
 💻 Hello world!
 
 **CS + Linguistics** at [UCLA](https://github.com/ucla).
-- :hammer_and_pick: C++ | Python | JavaScript
+- :hammer_and_pick: ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/Python-319e8d?style=flat&logo=python&logoColor=ffffff)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
