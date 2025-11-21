@@ -10,7 +10,7 @@
 
 ## I'm {Sienna}! :wave:
 
-<a href="https://github.com/siennacurry"><img align="right" alt="GitHub" src="https://img.shields.io/github/commit-activity/t/siennacurry/siennacurry?logo=github&label=Commits&labelColor=282c34&color=181717"/></a>
+<a href="https://github.com/siennacurry"><img align="right" alt="GitHub" src="https://img.shields.io/github/commit-activity/t/siennacurry/siennacurry?logo=github&label=GitHub%20Commits&labelColor=282c34&color=181717"/></a>
 
 <a href="https://www.linkedin.com/in/siennacurry/"><img align="right" alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 
