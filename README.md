@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/siennacurry/siennacurry/blob/606e2fde6944c2a815cad7f8eec57ca82a5ff62e/Assets/welcome-to-my-github-neon-blue.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/siennacurry/siennacurry/blob/215c9a19dfd4ef11cde49ee00af2d2947feddce9/Assets/welcome-github-cupid.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   
