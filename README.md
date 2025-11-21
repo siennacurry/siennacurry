@@ -17,16 +17,3 @@
 
 **CS + Linguistics** at [UCLA](https://github.com/ucla).
 - :hammer_and_pick: C++ & Python
-
-<br>
-<br>
-<br>
-<br>
-
-#### ⚡ Projects
-
-🐝 Not the Bees! | C++
-
-🛩 Flight Scheduler | C++
-
-</div>
