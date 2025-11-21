@@ -23,7 +23,8 @@
 
 #### ⚡ Projects
 
-- 🐝 Not the Bees! | C++
-- 🛩 Flight Scheduler | C++
+🐝 Not the Bees! | C++
+
+🛩 Flight Scheduler | C++
 
 </div>
