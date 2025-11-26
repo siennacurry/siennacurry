@@ -16,7 +16,7 @@
 
 <a href="mailto:siennacurry@g.ucla.edu"><img align="right" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 
-💻 Hello world!
+💻 Hello world! Check out my [website](https://siennacurry.me).
 
 **CS + Linguistics** at [UCLA](https://github.com/ucla).
 - :hammer_and_pick: ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)   ![Python](https://img.shields.io/badge/Python-319e8d?style=flat&logo=python&logoColor=ffffff)   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
